@@ -1,10 +1,9 @@
 4194304's I hate non-free licensed projects but otherwise you can do whatever license (IHNFLPBOYCDWL)
 
-I have no reason as to why you would want to use this for a project, but there could be some random possible scenario.
-Feel free to just use all of this without any restrictions at all EXCEPT for in projects with non-free licenses. If you plan to use anything in this repository in a non-free project, don't even think about it. This license gives you ABSOLUTELY no rights (so all rights are reserved) in that case. 
-The only "real" solid definition for non-free licenses (that'll be used here) are projects that DO NOT meet at least one of the following:
-1. Meeting the Open Source Definition
-2. Being GPL compatible
-3. Meeting the requirements of the Free Software Definition
+Here is a bit of terminology here before we get to the main contents of this license:
+The loose definition for non-free licenses (that'll be used here) are projects that DO NOT meet any of the following:
+1. The Open Source Definition (OSD) (note 1)
+2. The GPL definition (note 2)
+3. The Free Software Definition (FSD) (note 3)
 
-In total I just REALLY hate non-free (and proprietary licenses) in projects, and since I have been in the free software space for a bit, you can probably understand my reasoning behind all of this. I want to license my REALLY random projects under MY terms specifically.
+Feel free to just use all of this without any restrictions (or further restrictions) at all EXCEPT for in projects with non-free licenses. If you plan to use anything in this repository in a non-free project, you have no rights to do so, and essentially all rights are reserved. 
