@@ -9,7 +9,7 @@ Feel free to use anything licensed under this to have no restrictions (or furthe
 
 This license's terms on non-freely licensed projects also apply across projects that use work under a different (but allowed by these terms) license. This means that if you use work under this license in for example, a GPL licensed project, the non-free terms will still apply. Consequently, that means that even in the example GPL project mentioned, other projects still can not use it in projects with (by this license's definition) a non-free license.
 
-Another case of possible confusion is when a project moves licenses. If a project with this license moves to a non-free (by this definition) license, that would also be in violation of the license's terms.
+Another case of possible confusion is when a project moves licenses. If a project with this license (or a descendant project with content originally with this license) moves to a non-free (by this definition) license, that would also be in violation of the license's terms.
 
 Note 1: https://opensource.org/osd
 Note 2: https://www.gnu.org/philosophy/free-sw.html
